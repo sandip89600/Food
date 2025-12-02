@@ -1,4 +1,3 @@
-import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import header_img from './header_img.png'
 import search_icon from './search_icon.png'
@@ -59,6 +58,8 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
+import basket_icon from './basket_icon.png'
+
 
 export const assets = {
     logo,
